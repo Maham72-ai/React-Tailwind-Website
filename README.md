@@ -75,4 +75,4 @@ PakBazaar-Website/
 
 Made with love in Pakistan.
 
-Faisalabad, Punjab, Pakistan
+Maham
